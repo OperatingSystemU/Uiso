@@ -16,3 +16,5 @@
   - workaround: shared/overlay/etc/pacman.d/mirrorlist
 * fix qt config for root account
 
+*OS-u*
+*Bug Fixes
